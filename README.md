@@ -115,7 +115,7 @@ hostel_allocation/{allocation_id}
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ChitanyaThakar/test.git
 cd mini-erp-hackathon
 ```
 
